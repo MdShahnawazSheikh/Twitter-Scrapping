@@ -2,7 +2,7 @@
 # Twitter Scrapping
 
 First of all Thank You very much for considering my application for this role and giving me a chance to prove myself.
-Also, I know I had to use Google collab but I am ver familiar with Github & Vs Code so I used these tools to complete my assignment.
+Also, I know I had to use Google collab but I am very familiar with Github & Vs Code so I used these tools to complete my assignment.
 
 Modules used: snscrape and pandas
 
