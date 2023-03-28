@@ -1,9 +1,6 @@
 
 # Twitter Scrapping
 
-First of all Thank You very much for considering my application for this role and giving me a chance to prove myself.
-Also, I know I had to use Google collab but I am very familiar with Github & Vs Code so I used these tools to complete my assignment.
-
 Modules used: snscrape and pandas
 
 The program can be made faster by using Multithreading, dividing the list of links into chunks and then executing them at once.
